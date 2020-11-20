@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<heart> 
+   
+   <data> 
+       <name>gender</name> 
+       <entry>0=male, 1=female</entry> 
+   </data> 
+   <data> 
+       <name>chest pain</name> 
+       <entry>0=low,4=high</entry> 
+   </data> 
+   <data> 
+       <name>resting blood pressure</name> 
+       <entry>trestbps </entry> 
+   </data> 
+   <data> 
+       <name>serum cholestoral</name> 
+       <entry> 150 - 270 mg/dl </entry> 
+   </data> 
+   <data> 
+       <name>exercise induced angina</name> 
+       <entry>1=yes; 0=No </entry> 
+   </data> 
+   
+   
+</heart>
